@@ -1,0 +1,16 @@
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.csproj.AssemblyReference.cache
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\View\Page1.xaml.g.cs
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.AssemblyInfoInputs.cache
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.AssemblyInfo.cs
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.dll
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\refint\PDC60Module02.dll
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.pdb
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\bin\Debug\netstandard2.0\PDC60Module02.deps.json
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\bin\Debug\netstandard2.0\PDC60Module02.dll
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\bin\Debug\netstandard2.0\ref\PDC60Module02.dll
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\bin\Debug\netstandard2.0\PDC60Module02.pdb
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\XamlC.stamp

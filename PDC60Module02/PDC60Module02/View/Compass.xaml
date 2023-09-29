@@ -21,6 +21,7 @@
             <Image HorizontalOptions="Center"
                    VerticalOptions="Center"
                    Source="arrow.png"
+                   Rotation="{Binding Heading}"
                    Margin="75"
                    x:Name="ImageArrow"/>
 

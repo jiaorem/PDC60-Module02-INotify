@@ -4,15 +4,17 @@ using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
 using Xamarin.Essentials;
+using Compass = Xamarin.Essentials.Compass;
 
 namespace PDC60Module02.ViewModel
 {
     public class MyCompassViewModel : MvvmHelpers.BaseViewModel
     {
+        
         public MyCompassViewModel() 
         {
-            StopCommand = new Command(Stop);
-            StartCommand = new Command(Start);
+            StopCommand = new Command(stop);
+            StartCommand = new Command(start);
         }
 
         public 
@@ -37,7 +39,6 @@ namespace PDC60Module02.ViewModel
             if (!Compass.IsMonitoring)
                 return;
             Compass.ReadingChanged -= Compass_ReadingChanged;
-            Compass.IsTabStopProperty();
         }
         public Command StartCommand { get; }
         void start()
@@ -52,6 +53,6 @@ namespace PDC60Module02.ViewModel
         {
             Heading = e.Reading.HeadingMagneticNorth;
             HeadingDisplay = $"Heading: {Heading.ToString()}";
-
+        }
     }
 }

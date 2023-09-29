@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC60Module02.View.Gesture.gesture">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="Aqua">
+                <Label Text="Sample Drag Gesture">
+                    <Label.GestureRecognizers>
+                        <DragGestureRecognizer  CanDrag="True" 
+                                        DragStarting="DragGestureRecognizer_DragStarting"/>
+                    </Label.GestureRecognizers>
+                </Label>
+                </Frame>
+
+                    <Frame BackgroundColor="Chocolate">
+                        <Label Text="Sample Drag Gesture">
+                            <Label.GestureRecognizers>
+                                <DragGestureRecognizer  CanDrag="True" 
+                                        DragStarting="DragGestureRecognizer_DragStarting"/>
+                            </Label.GestureRecognizers>
+                        </Label>
+                        </Frame>
+
+                            <Frame BackgroundColor="Cyan">
+                                <Label Text="Sample Drag Gesture">
+                                    <Label.GestureRecognizers>
+                                        <DragGestureRecognizer  CanDrag="True" 
+                                        DragStarting="DragGestureRecognizer_DragStarting"/>
+                                    </Label.GestureRecognizers>
+                                </Label>
+                             </Frame>
+
+                                    <Frame BackgroundColor="Pink">
+                                        <Frame.GestureRecognizers>
+                                            <DropGestureRecognizer  AllowDrop="True" 
+                                    Drop="DropGestureRecognizer_Drop"/>
+                                        </Frame.GestureRecognizers>
+                                    </Frame>
+
+                                    <Entry>
+                                        <Entry.GestureRecognizers>
+                                            <DropGestureRecognizer  AllowDrop="True" 
+                                    Drop="DropGestureRecognizer_Drop"/>
+                                        </Entry.GestureRecognizers>
+                                    </Entry>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

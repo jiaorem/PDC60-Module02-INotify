@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ffLZr4JOUnClenlpxCS6hg2vzi4iRqZkFz8sRjudg3kMkboOJGW6cE4uWN/Uu44QUFQmmp54/BWyjf6053wdsw==",
+  "dgSpecHash": "Q+hS2pglqrEbl4CS6YBFtq9fGYnlxapcaJmzABniO25xTSBsAN+78NRKuWbW5Q0P7369M781yUCjgOVE0iJExQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Documents\\BSIT4\\repos\\PDC60Module02\\PDC60Module02\\PDC60Module02\\PDC60Module02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\refractored.mvvmhelpers\\1.6.2\\refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],

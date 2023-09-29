@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "PDC60Module02.Android.dll" comes first in this list. */
 		"PDC60Module02.Android.dll",
 		"FormsViewGroup.dll",
+		"MvvmHelpers.dll",
 		"PDC60Module02.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",

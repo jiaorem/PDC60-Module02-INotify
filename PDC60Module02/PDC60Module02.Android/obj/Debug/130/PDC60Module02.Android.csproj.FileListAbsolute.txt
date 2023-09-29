@@ -636,3 +636,9 @@ C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.An
 C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\res\drawable\winter.png
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\res\drawable\winter2.png
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\res\drawable\arrow.png
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\res\drawable\compass.png
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\android\assets\MvvmHelpers.dll
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02.Android\obj\Debug\130\android\assets\MvvmHelpers.pdb

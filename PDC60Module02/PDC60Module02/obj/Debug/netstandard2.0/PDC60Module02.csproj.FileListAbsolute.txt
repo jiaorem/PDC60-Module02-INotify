@@ -14,3 +14,6 @@ C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\bi
 C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\bin\Debug\netstandard2.0\ref\PDC60Module02.dll
 C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\bin\Debug\netstandard2.0\PDC60Module02.pdb
 C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\View\Gesture\gesture.xaml.g.cs
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\View\Gesture\gestureimage.xaml.g.cs
+C:\Users\User\Documents\BSIT4\repos\PDC60Module02\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\View\Compass.xaml.g.cs

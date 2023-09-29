@@ -19,6 +19,11 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+
+        <Button Text="MVVM Behavior" Clicked="ClickedMVVM"/>
+        <Button Text="Gesture Text" Clicked="ClickedGestureText"/>
+        <Button Text="Gesture Image" Clicked="ClickedGestureImage"/>
+        <Button Text="Compass" Clicked="ClickedCompass"/>
     </StackLayout>
 
 </ContentPage>

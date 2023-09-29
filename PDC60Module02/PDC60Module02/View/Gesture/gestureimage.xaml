@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC60Module02.View.Gesture.gestureimage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Gesture Image!"/>
+            <Image Source="winter2.png" HorizontalOptions="Center">
+                <Image.GestureRecognizers>
+                    <DragGestureRecognizer />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Grid ColumnDefinitions="0.5*, 0.5*"
+                  RowDefinitions="*, *"
+                  HeightRequest="350"
+                  VerticalOptions="EndAndExpand">
+
+                <Image BackgroundColor="LightGoldenrodYellow"
+                       HeightRequest="350"
+                       WidthRequest="250">
+                    <Image.GestureRecognizers>
+                        <DropGestureRecognizer Drop="OnCorrectDrop"/>
+                    </Image.GestureRecognizers>
+                </Image>
+                <Label Grid.Row="1" Text="Winter"/>
+
+                <Image Grid.Column="1" BackgroundColor="LightSeaGreen">
+                    <Image.GestureRecognizers>
+                        <DropGestureRecognizer DragOver="OnIncorrectDragOver"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Label Grid.Row="1" Grid.Column="1" Text="Summer" HorizontalOptions="Center" FontSize="16"/>
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

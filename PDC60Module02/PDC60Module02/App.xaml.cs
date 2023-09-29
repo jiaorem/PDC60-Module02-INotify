@@ -10,7 +10,7 @@ namespace PDC60Module02
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage( new View.Page1());
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()
